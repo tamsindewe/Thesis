@@ -1,0 +1,29 @@
+HostStartNum 100000
+Years 10
+BurnIn 5
+StepsYr 52
+OutputSteps 52
+
+GetGamma elfi
+
+TargetPrev 0.75
+TargetUnique 0.54
+TargetRes 0.36
+TargetDuration 0.291506849 0.176317401	0.176317401	0.176317401	0.176317401	0.176317401	0.176317401	0.176317401	0.176317401	0.176317401
+TargetProportion 0.1 	0.1 	0.1 	0.1 	0.1 	0.1 	0.1 	0.1 	0.1 	0.1
+TargetMGEPrev 0.4
+TargetMGEChi 0.8
+
+BactResistant 1
+BactAllSites 0
+BactClearances 1
+BactCarriage 1
+HostBactDist 1
+
+CompetitionContinuous N
+CompetitionBlock 0
+InvasionFactor 0
+
+Migration 0.001
+
+	

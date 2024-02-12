@@ -1,0 +1,21 @@
+numstrains 10
+
+StrainName  		A		B		C		D		E		F		G		H		I		J
+StrainIntro		0		0		0		0		0		0		0		0		0		0			
+StrainPrev  		0.1		0.1		0.1		0.1 		0.1		0.1		0.1		0.1		0.1		0.1 
+StrainBeta		7		8		13		7		7		6		12		10		8		8	
+StrainGamma		3		4		7		4		5		5		6		5		6		6	
+StrainDelta  		3.430451 	4.534161 	7.733051 	4.821664 	5.472264 	6.134454 	6.134454 	5.973813 	6.144781 	6.336806
+StrainFitness  		1		1		1		1		1		1		1		1		1		1
+StrainResistant  	0		0		0		0		0		0		0		0		0		0
+
+nummges 1
+MGETypeName generic
+MGETypeCompetitionCost	1
+MGETypeBetaCost	0
+MGETypeGammaCost 0
+MGETypeIntro	1
+MGETypeBeta	0.1
+MGETypeResistant 1
+MGETypeSite	0
+StrainMGEPrev	generic 0	0	0	0	0	0	0	0	0	0	
